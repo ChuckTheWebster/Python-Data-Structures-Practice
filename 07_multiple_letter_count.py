@@ -16,3 +16,5 @@ def multiple_letter_count(phrase):
             freq[char] += 1
 
     return freq
+
+    # .get
